@@ -1,7 +1,7 @@
 # Taskinator
 
 ## Description
-A task list organizer to make betetr organize your projects in order from tasks to do, tasks in progress and tasks completed.
+A task list organizer to make better organize your projects in order from tasks to do, tasks in progress and tasks completed.
 ## Installation
 
 Clone the repository locally and double click `index.html` or click on the link below in the usage section
